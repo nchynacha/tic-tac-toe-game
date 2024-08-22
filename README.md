@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# test_6
+# **TIC-TAC-TOE GAME**
 
 A new Flutter project.
 
@@ -16,5 +16,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# tic-tac-toe-game
->>>>>>> b0766aa38699f70dae0022080336f5ef5164e2f2
