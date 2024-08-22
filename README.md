@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_6
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tic-tac-toe-game
+>>>>>>> b0766aa38699f70dae0022080336f5ef5164e2f2
